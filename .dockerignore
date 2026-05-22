@@ -1,0 +1,10 @@
+# Ignorar archivos originales gigantescos descargados de Wayback Machine
+Original Soul Vegan - *
+
+# Ignorar reportes, logs y scripts de desarrollo temporal
+validation_report.txt
+scratch/
+.gemini/
+.git
+.gitignore
+README.md

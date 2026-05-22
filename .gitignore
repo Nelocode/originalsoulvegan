@@ -1,0 +1,7 @@
+# Ignorar archivos originales gigantescos de Wayback Machine
+Original Soul Vegan - *
+
+# Ignorar reportes de validación y logs temporales
+validation_report.txt
+scratch/
+.gemini/
