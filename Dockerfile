@@ -15,8 +15,10 @@ COPY reservations.html /usr/share/nginx/html/reservations.html
 COPY specials.html /usr/share/nginx/html/specials.html
 COPY accessibility.html /usr/share/nginx/html/accessibility.html
 
-# Copiar directorio de imágenes
+# Copiar directorio de imágenes y video
 COPY images/ /usr/share/nginx/html/images/
+COPY video.mp4 /usr/share/nginx/html/video.mp4
+
 
 # Exponer el puerto 80 para el tráfico web
 EXPOSE 80
